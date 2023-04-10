@@ -1,0 +1,18 @@
+on/off low high delta t(sec)
+FALSE 8.230000E+1 8.270000E+1 1.000000E-2 1.000000E+0
+normal/detector_only source_angle(deg)
+TRUE 82.330000E+0
+zone_1
+on/off low high delta t(sec)
+TRUE 9.550000E+3 9.630000E+3 2.500000E-1 4.000000E+0
+zone_2
+on/off low high delta t(sec)
+TRUE 9.630000E+3 9.700000E+3 2.500000E-1 4.000000E+1
+zone_3
+on/off low high delta t(sec)
+FALSE 9.700000E+3 9.585000E+3 5.000000E-1 1.000000E+0
+zone_4
+on/off low high delta_k t(sec) edge k_wght
+FALSE 9.700000E+3 1.200000E+1 5.000000E-2 3.000000E+0 8.333000E+3 5.000000E-1
+H material K L offset(deg)
+5 Ge 5 5 150.000000E-3
